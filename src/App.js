@@ -384,7 +384,7 @@ function App() {
 					{/* //--END MINT-- */}
 				</div>
 				<div className="hero-img two-col-block__column">
-					<img src="./img/hero.gif" alt="EXILE XCiX" />
+					<img src="img/hero.gif" alt="EXILE XCiX" />
 					<div className="sticky-tape sticky-tape-1"></div>
 					<div className="sticky-tape sticky-tape-2"></div>
 				</div>
