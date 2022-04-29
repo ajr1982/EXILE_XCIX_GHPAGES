@@ -87,7 +87,7 @@ function App() {
 	};
 
 	const getConfig = async () => {
-		const configResponse = await fetch("/config/config.json", {
+		const configResponse = await fetch("./config/config.json", {
 			headers: {
 				"Content-Type": "application/json",
 				Accept: "application/json",
@@ -384,7 +384,7 @@ function App() {
 					{/* //--END MINT-- */}
 				</div>
 				<div className="hero-img two-col-block__column">
-					<img src="img/hero.gif" alt="EXILE XCiX" />
+					<img src="./img/hero.gif" alt="EXILE XCiX" />
 					<div className="sticky-tape sticky-tape-1"></div>
 					<div className="sticky-tape sticky-tape-2"></div>
 				</div>
