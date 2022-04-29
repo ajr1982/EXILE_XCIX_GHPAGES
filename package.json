@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Minting dapp for the EXILE XCIX NFT project.",
 	"private": true,
-	"homepage": "https://ajr1982.github.io/EXILE_XCIX_GHPAGES/",
+	"homepage": "http://exilexcix.com",
 	"dependencies": {
 		"gh-pages": "^3.2.3",
 		"react": "^17.0.2",
